@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android Camera2 Tutorial</string>
+    <string name="action_settings">Settings</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="go_back">Back to Camera</string>
+</resources>
